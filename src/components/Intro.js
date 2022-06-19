@@ -5,7 +5,7 @@ export default function Intro(props){
     return (
         <div className="intro"> 
             <h1> Quizzica </h1>
-            <p> Some descriptions if needed </p>
+            <p> Answer questions lmao </p>
             <button onClick={props.clicked}> Start Quiz </button>
         </div>
     )
