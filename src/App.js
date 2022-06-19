@@ -14,6 +14,11 @@ function App() {
 
   const apiURL = "https://the-trivia-api.com/api/questions?limit=5"
 
+  function scramble(arr){
+    return arr.sort((a,b) => 0.5 - Math.random())
+    }
+  
+
   function getQuiz(){
     fetch(apiURL)
       .then(res => res.json())
@@ -21,7 +26,7 @@ function App() {
         return {  
           "correctAnswer": question.correctAnswer,
           "question": question.question,
-          "choices": [...question.incorrectAnswers, question.correctAnswer],
+          "choices": scramble([...question.incorrectAnswers, question.correctAnswer]),
           "chosen": "",
           "isCorrect": false,
         }
