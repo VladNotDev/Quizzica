@@ -1,7 +1,7 @@
 {
   "main.css": "/Quizzica/static/css/main.30953760.chunk.css",
-  "main.js": "/Quizzica/static/js/main.71614a52.chunk.js",
-  "main.js.map": "/Quizzica/static/js/main.71614a52.chunk.js.map",
+  "main.js": "/Quizzica/static/js/main.5fc46fee.chunk.js",
+  "main.js.map": "/Quizzica/static/js/main.5fc46fee.chunk.js.map",
   "runtime~main.js": "/Quizzica/static/js/runtime~main.a4cb9567.js",
   "runtime~main.js.map": "/Quizzica/static/js/runtime~main.a4cb9567.js.map",
   "static/js/2.a93ff080.chunk.js": "/Quizzica/static/js/2.a93ff080.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.c70b6b5b.chunk.js": "/Quizzica/static/js/3.c70b6b5b.chunk.js",
   "static/js/3.c70b6b5b.chunk.js.map": "/Quizzica/static/js/3.c70b6b5b.chunk.js.map",
   "index.html": "/Quizzica/index.html",
-  "precache-manifest.f31d3e8b503ee8b8cd7948957f02d91c.js": "/Quizzica/precache-manifest.f31d3e8b503ee8b8cd7948957f02d91c.js",
+  "precache-manifest.c634e564d9e8021ac41e939ec0f5b472.js": "/Quizzica/precache-manifest.c634e564d9e8021ac41e939ec0f5b472.js",
   "service-worker.js": "/Quizzica/service-worker.js",
   "static/css/main.30953760.chunk.css.map": "/Quizzica/static/css/main.30953760.chunk.css.map"
 }
